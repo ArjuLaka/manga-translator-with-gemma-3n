@@ -1,4 +1,5 @@
 # Manga Translator with Gemma 3n
+Is a manga pages language translator app that made with Gemma 3n model for more accurate and a contextual translation.
 ## 🛠️ Tech Stacks
 1. INPUT: Upload Manga Image (Streamlit) 
 2. [Vision] Speech Bubble and Text Detection (YOLOv8)
