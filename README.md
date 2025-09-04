@@ -11,4 +11,5 @@
 - Manga Speech Bubble and Text Detection Model - https://universe.roboflow.com/arjulaka/manga-text-and-bubble-detection-pizm9/
 - Latin Text OCR - https://huggingface.co/PaddlePaddle/latin_PP-OCRv3_mobile_rec
 - Japanese & Mandarin Text OCR - https://huggingface.co/PaddlePaddle/PP-OCRv5_mobile_rec
+- Finetune Manga Text OCR project - https://github.com/ArjuLaka/public-ocr-reg-manga-dataset
 ## (DISCONTINUED)
